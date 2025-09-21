@@ -21,7 +21,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
-![User Story 5: As a trader, I want to list my items I'm willing to exchange, so that other members can see and propose an offer.](Project 1 - UML Diagram User Story 5.png)
+![User Story 5: As a trader, I want to list my items I'm willing to exchange, so that other members can see and propose an offer.](Project%201%20-%20UML%20Diagram%20User%20Story%205.png)
+
 
 ## Clickable Prototype
 
