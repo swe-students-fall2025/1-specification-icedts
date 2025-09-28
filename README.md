@@ -22,11 +22,11 @@ This application will serve as an interactive way for verified NYU students to e
 See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
+User Story 1: As a new user, I want to create an account, so I can sell items through my own personal profile
+![User Story 1: As a new user, I want to create an account, so I can sell items through my own personal profile.](User%20Story%201.png)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-![User Story 5: As a trader, I want to list my items I'm willing to exchange, so that other members can see and propose an offer.](Project%201%20-%20UML%20Diagram%20User%20Story%205.png)
-
-![User Story 17: As a trader, I want to see my trade history to see my former trades and the item(s) I got in exchange for my former item(s), so I can keep track of my account.](Project%201%20-%20UML%20Diagram%20User%20Story%2017.png)
+User Story 17: As a trader, I want to see my trade history to see my former trades and the item(s) I got in exchange for my former item(s), so I can keep track of my account.
+![User Story 17: As a trader, I want to see my trade history to see my former trades and the item(s) I got in exchange for my former item(s), so I can keep track of my account.](User%20Story%2017.png)
 
 
 
