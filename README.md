@@ -12,7 +12,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-This application will serve as platform for verified NYU students to exchange relevant school supplies, living appliances, and used clothing in one secure, convenient, and virtual space.
+This application will serve as an interactive way for verified NYU students to exchange school supplies, living appliances, and used clothing, allowing users to effectively donate their unneeded items while gathering their needs in one virtual space. 
 
 
 ## User Requirements
