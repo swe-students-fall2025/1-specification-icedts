@@ -38,11 +38,11 @@ This application will serve as an interactive way for verified NYU students to e
 18. As a trader, I want to message other users about items they’ve listed, so that I can ask for more details about the item.
 19. As a trader, I want to block another user from visiting my profile, so that they can no longer message me or request to trade with me.
 20. As a trader, I want to scroll the homepage, so I can view recently listed items and items suggested for me.
-As a trader, I want to filter by type (school supplies/books/clothes/etc) when searching for items, so I can more easily find the item I want.
-21. As a trader, I want to sort search results by “recently listed” or “most relevant”, so that I can more easily find the item I want.
-22. As a user, I want to view and adjust my account settings including preferences and privacy settings, so I can feel secure and have a comfortable experience with the app.
-23. As a user, I want to set and change my profile picture, so I can accurately represent myself on my profile.
-24. As a user, I want to decline an offer made by another user, so I can signal that I don’t agree to the offer.
+21. As a trader, I want to filter by type (school supplies/books/clothes/etc) when searching for items, so I can more easily find the item I want.
+22. As a trader, I want to sort search results by “recently listed” or “most relevant”, so that I can more easily find the item I want.
+23. As a user, I want to view and adjust my account settings including preferences and privacy settings, so I can feel secure and have a comfortable experience with the app.
+24. As a user, I want to set and change my profile picture, so I can accurately represent myself on my profile.
+25. As a user, I want to decline an offer made by another user, so I can signal that I don’t agree to the offer.
 
 
 ## Activity Diagrams
