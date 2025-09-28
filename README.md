@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Kylie Lin (kylin1209) - https://github.com/kylin1209
+Kylie Lin (kylin1209) - https://github.com/kylin12
 Alissa Hsu (alissahsu22) - https://github.com/alissahsu22
 
 ## Stakeholders
