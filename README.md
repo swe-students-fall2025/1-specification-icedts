@@ -11,6 +11,10 @@ A little exercise to get started with the specification phase of the software de
     - Helped with ideation
 - Alissa Hsu (alissahsu22) - https://github.com/alissahsu22
 - Tawhid Zaman (TawhidZGit) - https://github.com/TawhidZGit
+    - Wrote some User Requirements
+    - Helped develop Wireframe diagram
+    - Helped develop prototype
+    - Helped with ideation
 - Anshu Aramandla (aa10150) - https://github.com/aa10150
 - Lily Luo (lilyluo7412) - https://github.com/lilyluo7412
 
@@ -64,6 +68,10 @@ This application will serve as an interactive way for verified NYU students to e
 22. As a user, I want to view and adjust my account settings including preferences and privacy settings, so I can feel secure and have a comfortable experience with the app.
 23. As a user, I want to set and change my profile picture, so I can accurately represent myself on my profile.
 24. As a user, I want to decline an offer made by another user, so I can signal that I don’t agree to the offer.
+
+## Wireframe diagrams
+
+https://www.figma.com/design/ZbUssiE5vHxP8nreoGrsOa/Specification_Exercise?node-id=0-1&p=f&t=5yELVxUxnEuWBfBY-0
 
 ## Activity Diagrams
 
