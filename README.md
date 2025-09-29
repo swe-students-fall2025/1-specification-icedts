@@ -10,14 +10,17 @@ A little exercise to get started with the specification phase of the software de
     - Created both UML Activity Diagrams
     - Helped with ideation
 - Alissa Hsu [alissahsu22](https://github.com/alissahsu22)
-    - xxx
+    - Created wireframe diagrams
+    - Helped with ideation
 - Tawhid Zaman [TawhidZGit](https://github.com/TawhidZGit)
     - Wrote some User Requirements
     - Helped develop Wireframe diagram
     - Helped develop prototype
     - Helped with ideation
 - Anshu Aramandla [aa10150](https://github.com/aa10150)
-    - xxx
+    - Wrote some user requirements
+    - Wrote an interview Google form
+    - Helped with ideation
 - Lily Luo [lilyluo7412](https://github.com/lilyluo7412)
     - Collected 4 interview responses
     - Adding and modifying wireframe diagrams to complete the clickable prototype
