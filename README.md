@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Kylie Lin (kylin1209) - https://github.com/kylin12
 Alissa Hsu (alissahsu22) - https://github.com/alissahsu22
+Tawhid Zaman (TawhidZGit) - https://github.com/TawhidZGit
 
 ## Stakeholders
 
