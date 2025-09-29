@@ -11,14 +11,14 @@ Anshu Aramandla (aa10150) - https://github.com/aa10150
 
 ## Stakeholders
 The primary stakeholders for this project will be the end users, the NYU students whom the app is designed for, so we interviewed several students about their needs and what they would do with such an app. These were some of their responses and takeaways.
-# Responses:
+### Responses:
 1. “I think maybe I could trade like collectibles and stuff... I am pretty confident that some of my friends would love this platform to trade clothes, accessories, etc…”
 2. “(I could) purchase used textbook according to subject, or basic houseware in dorm scenarios. It would be easier if I can purchase others used item according to specific major/subject requirements. Potentially, it would save students’ cost on purchasing school materials.”
 3. “I’ll sell textbook, the primary use. Selling expensive Chemistry, Economics, or Literature textbooks to a student taking the same class next semester.”
 4. “NYU did a swap on 2nd ave and not only me, but my friends, were able to grab items we’ve needed for a long time for free. It upped my quality of life, the clothes, storage, and decorative pieces I got from that.”
 5. “For furnitures, clothes and books. Buy things and join a commnity which has opportunities to get more when needed.”
 6. “I can trade books because same course share a booklist, and I can trade my furnitures and clothes. For tasks, I think maybe verification system? Because this ensures reliability and safety.”
-# Takeaways:
+### Takeaways:
 1. Reliability and safety when exchanging items is important to potential users.
 2. The top 3 categories of items that students are interested in exchanging are books (especially textbooks), clothes, and furniture.
 3. The platform’s main appeal to potential users is being able to save money on expensive items such as textbooks.
