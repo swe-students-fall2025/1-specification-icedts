@@ -71,7 +71,7 @@ This application will serve as an interactive way for verified NYU students to e
 
 ## Wireframe diagrams
 
-https://www.figma.com/design/ZbUssiE5vHxP8nreoGrsOa/Specification_Exercise?node-id=0-1&p=f&t=5yELVxUxnEuWBfBY-0
+[Wireframe Diagram Link](https://www.figma.com/design/ZbUssiE5vHxP8nreoGrsOa/Specification_Exercise?node-id=0-1&p=f&t=5yELVxUxnEuWBfBY-0)
 
 ## Activity Diagrams
 
