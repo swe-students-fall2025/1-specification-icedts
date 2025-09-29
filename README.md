@@ -5,10 +5,10 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Kylie Lin (kylin1209) - https://github.com/kylin1209
-        - Wrote Product Vision Statement
-        - Wrote some User Requirements
-        - Created both UML Activity Diagrams
-        - Helped with ideation
+    - Wrote Product Vision Statement
+    - Wrote some User Requirements
+    - Created both UML Activity Diagrams
+    - Helped with ideation
 - Alissa Hsu (alissahsu22) - https://github.com/alissahsu22
 - Tawhid Zaman (TawhidZGit) - https://github.com/TawhidZGit
 - Anshu Aramandla (aa10150) - https://github.com/aa10150
