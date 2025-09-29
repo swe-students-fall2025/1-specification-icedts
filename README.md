@@ -4,19 +4,24 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- Kylie Lin (kylin1209) - https://github.com/kylin1209
+- Kylie Lin [kylin1209](https://github.com/kylin1209)
     - Wrote Product Vision Statement
     - Wrote some User Requirements
     - Created both UML Activity Diagrams
     - Helped with ideation
-- Alissa Hsu (alissahsu22) - https://github.com/alissahsu22
-- Tawhid Zaman (TawhidZGit) - https://github.com/TawhidZGit
+- Alissa Hsu [alissahsu22](https://github.com/alissahsu22)
+    - xxx
+- Tawhid Zaman [TawhidZGit](https://github.com/TawhidZGit)
     - Wrote some User Requirements
     - Helped develop Wireframe diagram
     - Helped develop prototype
     - Helped with ideation
-- Anshu Aramandla (aa10150) - https://github.com/aa10150
-- Lily Luo (lilyluo7412) - https://github.com/lilyluo7412
+- Anshu Aramandla [aa10150](https://github.com/aa10150)
+    - xxx
+- Lily Luo [lilyluo7412](https://github.com/lilyluo7412)
+    - Collected 4 interview responses
+    - Adding and modifying wireframe diagrams to complete the clickable prototype
+    - Responsible for most of the clickable prototype
 
 ## Stakeholders
 
