@@ -45,11 +45,11 @@ This application will serve as an interactive way for verified NYU students to e
 10. As a trader, I want to list books by their ISBN number, so that it is easier for other students to find it.
 11. As a trader, I want to search for books by their ISBN number, so that I can reliably find the book I want.
 12. As a trader, I want to be notified when a book that is on my wishlist is listed by another user, so that I can trade for the book quickly.
-13. As a trader, I want to see my trade history to see my former trades and the item(s) I got in exchange for my former item(s), so I can keep track of my account.
+13. As a trader, I want to message other users about items they’ve listed, so that I can ask for more details about the item.
 14. As a trader, I want to safely back out of an exchange so that I can ensure communication in case my situation changes.
 15. As a trader, I want to make a review of the other user after participating in an exchange, so I can let others know how my experience was.
 16. As a trader, I want to view the reviews on another user’s profile, so I can decide whether or not to trade with the user.
-17. As a trader, I want to message other users about items they’ve listed, so that I can ask for more details about the item.
+17.  As a trader, I want to see my trade history to see my former trades and the item(s) I got in exchange for my former item(s), so I can keep track of my account.
 18. As a trader, I want to block another user from visiting my profile, so that they can no longer message me or request to trade with me.
 19. As a trader, I want to scroll the homepage, so I can view recently listed items and items suggested for me.
 20. As a trader, I want to filter by type (school supplies/books/clothes/etc) when searching for items, so I can more easily find the item I want.
